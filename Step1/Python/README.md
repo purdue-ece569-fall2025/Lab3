@@ -15,7 +15,7 @@ To run the test benches, run the python file from the `Lab2/Step1/Python` direct
 ```bash
 python3 tests.py
 ```
-If you just want to run a specific test, do something like this from the `Lab2/Step1/Python` directory:
+If you just want to run a specific test, do something like this from the `Lab3/Step1/Python` directory:
 ```
 python3 -m unittest tests.TEST_VecToso3 -v
 python3 -m unittest tests.TEST_so3ToVec -v
