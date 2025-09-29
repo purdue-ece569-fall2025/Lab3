@@ -18,7 +18,6 @@ expected = [0 0 -1 1];
 verifyEqual(testCase,actual,expected,'AbsTol',1e-6);
 end
 
-function testPosRow(testCase)
 function testPosCol(testCase)
 w_theta = [2 7 26 ]';
 [actual_w, actual_theta] = ECE569_AxisAng3(w_theta);
