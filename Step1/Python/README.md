@@ -23,3 +23,7 @@ python3 -m unittest tests.TEST_AngleAxis3 -v
 python3 -m unittest tests.TEST_MatrixLog3 -v
 ```
 Of course, if you are on windows you might need to replace `python3` with `python` or `py`.
+
+## Instructions
+
+See the [Overleaf template](https://www.overleaf.com/read/mwyhydwdqwpd#716360) for the actual Step 1 instructions.
