@@ -114,7 +114,7 @@ if __name__ == '__main__':
     current_folder = os.path.basename(os.getcwd())
     if current_folder != 'Python':
         print(f'Please run the test from Lab2/Step1/Python directory. You are currently in {current_folder}')
-        print(f'Hint: cd ~/ece569-fall2024/Lab2/Step1/Python')
+        print(f'Hint: cd ~/ece569-fall2025/Lab2/Step1/Python')
     else:
 
         # run all of the unit tests using
