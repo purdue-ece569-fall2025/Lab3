@@ -1,4 +1,4 @@
-%% *ECE 569 Lab2 Tutorial*
+%% *ECE 569 Lab3 Tutorial*
 % If you are new to MATLAB, this tutorial will help you with the basic commands 
 % you will need in order to complete this assignment.
 

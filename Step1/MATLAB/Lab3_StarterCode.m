@@ -1,4 +1,4 @@
-%% Lab 2 Step 1 Starter Code
+%% Lab 3 Step 1 Starter Code
 
 clear all;
 close all;
