@@ -4,7 +4,7 @@
 Step 2 requires the use of ROS. On ThinLinc (or your personal Linux machine, if you opt to use that), run
 ```
 cd ~/ece569-fall2025
-git clone <paste your git@github.itap.purdue.edu:xxxxx/Lab3.git for your personal Lab3 repo here>
+git clone <paste your git@github.com:xxxxx/Lab3.git for your personal Lab3 repo here>
 ```
 just like you did in Lab 2. If you need a refresher, take a look. You can then verify that you can push by adding your name and email to this `README.md` file and pushing your changes to GitHub.
 
