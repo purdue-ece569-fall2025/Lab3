@@ -22,3 +22,7 @@ Test Benches are .m files. You can run all tests with the `runtests` commmand in
 * [VecToso3Test.m](VecToso3Test.m)
 * [AxisAng3Test.m](AxisAng3Test.m)
 * [MatrixLog3Test.m](MatrixLog3Test.m)
+
+## Instructions
+
+See the [Overleaf template](https://www.overleaf.com/read/mwyhydwdqwpd#716360) for the actual Step 1 instructions.

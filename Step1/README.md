@@ -12,7 +12,7 @@ git version 2.41.0.windows.3
 2. Alternatively, you can download the repository as a .zip file. Go to main page of your personal Lab2 git repo, click on the green `Code` button and then press `Download ZIP`. The downside of this method is that you will have to manually upload your files to github (drag and drop the files) and you won't be able to use the power of git version control when developing your code.
 
 ### Instructions
-Step 1 can be completed in MATLAB (recommended) or Python (if you prefer). The instructions for Step 1 are within the [Overleaf file](TODO). Please refer to the MATLAB or Python folders, whatever you prefer.
+Step 1 can be completed in MATLAB (recommended) or Python (if you prefer). The instructions for Step 1 are within the [Overleaf file](https://www.overleaf.com/read/mwyhydwdqwpd#716360). Please refer to the MATLAB or Python folders, whatever you prefer.
 
 [MATLAB Folder](MATLAB)
 
